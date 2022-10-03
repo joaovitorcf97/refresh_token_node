@@ -35,4 +35,3 @@ class AuthenticateUserUseCase {
 }
 
 export { AuthenticateUserUseCase };
-

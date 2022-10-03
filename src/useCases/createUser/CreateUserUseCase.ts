@@ -35,4 +35,3 @@ class CreateUserUseCase {
 }
 
 export { CreateUserUseCase };
-
